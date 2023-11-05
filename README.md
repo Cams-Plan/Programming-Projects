@@ -1,5 +1,10 @@
 # 100 Days of Code Main Programming-Projects
 
+_Note: For all of my '100 Days of Code' work (including the mini-skill development projects)_
+[Visit the full collection repo](https://github.com/Cams-Plan/Python-Code-Collection)
+
+![daysOfCodeThumbnail](https://github.com/Cams-Plan/Programming-Projects/assets/110306796/c6ad93ed-e898-40f2-828d-058f7adbbaea)
+
 ## Projects
 
 1. [Tip Calculator](https://github.com/Cams-Plan/Programming-Projects/blob/main/01_Tip_Calculator.py)
